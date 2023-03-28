@@ -21,6 +21,6 @@
 
 ##
 
-![Snake animation](htpps://github.com/radegaiocali/blob/output/github-contribution-grid-snake.svg)
+
           
           
